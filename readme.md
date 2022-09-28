@@ -9,7 +9,7 @@ This project is used to generate caption for the images requested as an argument
 ## Run with Docker
 ```shell
 # 1. First, clone the repo
-$ git clone https://github.com/sarthak7509/Content-Based-Image-Captioning.git
+$ git clone https://github.com/Smitmodi21/Content-Based-Image-Captioning.git
 $ cd Content-Based-Image-Captioning
 
 # 2. Build Docker image
